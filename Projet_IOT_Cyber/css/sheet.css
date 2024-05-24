@@ -1,0 +1,112 @@
+body{
+    background-color: #c9d6ff;
+    background: linear-gradient(to right, #e2e2e2,#c9d6ff);
+    margin: 0;
+    font-family: 'OCR A Std', monospace;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+}
+
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.align{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+#button-green{
+    background-color: #00FF00;
+    font-size: 12px;
+    padding: 10px 40px;
+    border: 2px solid ;
+    border-color: #000000;
+    border-radius: 100px;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    margin: 5px 15px;
+
+}
+
+#button-blue{
+    background-color: #0000FF;
+    font-size: 12px;
+    padding: 10px 40px;
+    border: 2px solid ;
+    border-color: #000000;
+    border-radius: 100px;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    margin: 5px 15px;
+
+}
+
+#button-red{
+    background-color: #FF0000;
+    font-size: 12px;
+    padding: 10px 40px;
+    border: 2px solid ;
+    border-color: #000000;
+    border-radius: 100px;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    margin: 5px 15px;
+
+}
+
+#button-black{
+    background-color: #000000;
+    font-size: 12px;
+    padding: 10px 40px;
+    border: 2px solid ;
+    border-color: #000000;
+    border-radius: 100px;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    margin: 5px 15px;
+
+}
+
+#button-yellow{
+    background-color: #FFFF00;
+    font-size: 12px;
+    padding: 10px 40px;
+    border: 2px solid ;
+    border-color: #000000;
+    border-radius: 100px;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    margin: 5px 15px;
+
+}
+
+#grid-container{
+    border:4px solid;
+    border-radius: 10px;
+    border-color:#aabbf3;
+}
+
+input{
+    background-color: #0000FF;
+    font-size: 12px;
+    padding: 10px 40px;
+    border: 2px solid ;
+    border-color: #000000;
+    border-radius: 100px;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    margin: 5px 15px;
+}

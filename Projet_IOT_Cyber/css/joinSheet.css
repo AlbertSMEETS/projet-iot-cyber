@@ -1,0 +1,48 @@
+body {
+    background-color: #c9d6ff;
+    background: linear-gradient(to right, #e2e2e2, #c9d6ff);
+    margin: 0;
+    font-family: 'OCR A Std', monospace;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+}
+
+button {
+    background-color: #c9d6ff;
+    color: #050101;
+    font-size: 12px;
+    padding: 10px 30px;
+    border: 1px solid;
+    border-radius: 10px;
+    box-shadow: 0 10px 15px rgba(1, 1, 100, 0.30);
+    cursor: pointer;
+    margin: 5px 15px;
+    border-style: groove;
+}
+
+input {
+    background-color: #eee;
+    border: none;
+    margin: 8px 0;
+    padding: 10px 15px;
+    border-radius: 10px;
+    width: 90%;
+    outline: none;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+button#joinButton,
+button#back {
+    width: 100px; /*making sur buttons got the same dimentions*/
+}
